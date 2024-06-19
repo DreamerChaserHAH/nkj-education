@@ -23,10 +23,10 @@ There are multiple objectives that I, <a href="https://github.com/DreamerChaserH
 
 ## Technologies
 
-- Flutter
-  - As flutter is a flexible framework with wide-spread adoption within the country, I believe developing in flutter will help with procuring potential contributions.
+- Compose Multiplatform
+  - As Compose Multiplatform is not as verbose as flutter, I personally believe it is good framework to develop this project with
 - Cloudflare
-  - As cloudflare free account supports unlimited bandwidth and provides an incredibly amazing cdn, I have decided that hosting static content on flutter would be great choice
+  - As cloudflare free account supports unlimited bandwidth and provides an incredibly amazing cdn, I have decided that hosting static content on Compose Multiplatform would be great choice
 
 ## Contribution Guide
 There are multiple ways to contribute to this repository
@@ -56,7 +56,7 @@ You can still voice your opinion about the place you are at to give others a rou
 
 Oh wait, you can code? **WOW** Come on join me in this bandwagon, and create an application that all types of people from Myanmar can use. (old people, young people, even infants! (maybe that's a little bit too much lol))
 
-If you know or want to learn flutter, just clone the repository. If possible, look at all the issues that are listed, and tackle those ones first.
+If you know or want to learn kotlin, just clone the repository. If possible, look at all the issues that are listed, and tackle those ones first.
 
 (As I would say, solve identifed problems first, before creating potential problems xD)
 
